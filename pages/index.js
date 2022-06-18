@@ -37,7 +37,7 @@ export default function Home({ allPostData }) {
         </Head>
         <section className={utilStyle.headingMd}>
           <p>
-            私は現在フロントエンドエンジニアとして働いています。
+            私は現在Next.jsエンジニアを目指しています。
             ReactとTypescriptでの開発を学習中です。
           </p>
         </section>
